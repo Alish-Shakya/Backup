@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+}
+.box{
+    height: 400px;
+    width: 400px;
+    background-image: url(images/background.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+}
+
+
